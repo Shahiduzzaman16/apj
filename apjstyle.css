@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#mains{
+    
+    padding: 100px;
+    border: 30px solid rgb(83, 204, 83);
+}
+
+.section1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.section1 h1{
+   
+  font-size: 50px;
+  font-weight: bold;
+  color: #1d1e4c;
+  text-transform: uppercase;
+}
+.section1 h3{
+    font-size: 30px;
+  text-align: end;
+}
+.img{
+    border-radius: 50%;
+    overflow: hidden;
+    
+}
+.img , img{
+    width: 300px;
+    height: 320px;
+}
+.section2{
+    margin-top: 100px;
+}
+.section2 h1{
+    font-size: 30px;
+}
+.section2 span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.section2 p{
+    font-size: 18px;
+}
+
+.section2 h3{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.bioeraphies{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+.footer{
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: right;
+}
